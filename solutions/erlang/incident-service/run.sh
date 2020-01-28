@@ -1,0 +1,1 @@
+sudo apt install build-essential erlang libpam0g-dev

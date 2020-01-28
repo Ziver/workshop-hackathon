@@ -7,3 +7,5 @@
 .DS_Store
 solutions/fuse/impl/bin
 solutions/fuse/stub/bin
+*.beam
+erl_crash.dump
